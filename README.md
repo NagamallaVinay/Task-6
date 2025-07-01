@@ -3,7 +3,7 @@
 # Objective: Understand and implement KNN for classification problems.
 # Tools:  Scikit-learn, Pandas, Matplotlib
 
-# Steps by step Procedure :
+# Step by step Procedure :
        1.Choose a classification dataset and normalize features.
        2.Use KNeighborsClassifier from sklearn.
        3.Experiment with different values of K.
